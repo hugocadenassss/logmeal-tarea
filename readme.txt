@@ -42,7 +42,6 @@ Cómo ejecutar
 
 1. Abrir la terminal y navegar a la carpeta del proyecto:
 
-```bash
 cd ruta/a/logmeal-takehome
 
 
