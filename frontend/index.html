@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Frontend LogMeal</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Frontend LogMeal</h1>
+
+    <section>
+        <h2>Upload Image</h2>
+        <input type="file" id="upload">
+        <button onclick="uploadImage()">Upload</button>
+    </section>
+
+    <section>
+        <h2>List Images</h2>
+        <button onclick="listImages()">List</button>
+        <ul id="imageList"></ul>
+    </section>
+
+    <section>
+        <h2>Analyse Image</h2>
+        <input id="analyseId" placeholder="Image ID">
+        <button onclick="analyseImage()">Analyse</button>
+        <pre id="analysis"></pre>
+    </section>
+
+    <section>
+        <h2>Share Image</h2>
+        <input id="shareId" placeholder="Image ID">
+        <button onclick="shareImage()">Share</button>
+        <pre id="shareResult"></pre>
+    </section>
+
+    <script src="app.js"></script>
+</body>
+</html>
