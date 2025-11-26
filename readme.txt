@@ -36,7 +36,7 @@ Requisitos
 - Docker Desktop (Windows / Mac) o Docker + docker-compose (Linux)
 - Git (opcional, para clonar el repositorio)
 
-
+git clone https://github.com/hugocadenassss/logmeal-tarea.git
 
 Cómo ejecutar
 
