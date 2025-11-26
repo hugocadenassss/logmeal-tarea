@@ -1,6 +1,6 @@
 LogMeal Take-Home Project
 
-Descripción
+
 Este proyecto es un ejemplo mínimo de una aplicación full-stack que permite:
 
 - Subir imágenes.
